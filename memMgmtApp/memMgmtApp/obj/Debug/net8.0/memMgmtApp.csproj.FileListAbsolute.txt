@@ -1,0 +1,14 @@
+E:\MS.Net\memMgmtApp\memMgmtApp\bin\Debug\net8.0\memMgmtApp.exe
+E:\MS.Net\memMgmtApp\memMgmtApp\bin\Debug\net8.0\memMgmtApp.deps.json
+E:\MS.Net\memMgmtApp\memMgmtApp\bin\Debug\net8.0\memMgmtApp.runtimeconfig.json
+E:\MS.Net\memMgmtApp\memMgmtApp\bin\Debug\net8.0\memMgmtApp.dll
+E:\MS.Net\memMgmtApp\memMgmtApp\bin\Debug\net8.0\memMgmtApp.pdb
+E:\MS.Net\memMgmtApp\memMgmtApp\obj\Debug\net8.0\memMgmtApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\MS.Net\memMgmtApp\memMgmtApp\obj\Debug\net8.0\memMgmtApp.AssemblyInfoInputs.cache
+E:\MS.Net\memMgmtApp\memMgmtApp\obj\Debug\net8.0\memMgmtApp.AssemblyInfo.cs
+E:\MS.Net\memMgmtApp\memMgmtApp\obj\Debug\net8.0\memMgmtApp.csproj.CoreCompileInputs.cache
+E:\MS.Net\memMgmtApp\memMgmtApp\obj\Debug\net8.0\memMgmtApp.dll
+E:\MS.Net\memMgmtApp\memMgmtApp\obj\Debug\net8.0\refint\memMgmtApp.dll
+E:\MS.Net\memMgmtApp\memMgmtApp\obj\Debug\net8.0\memMgmtApp.pdb
+E:\MS.Net\memMgmtApp\memMgmtApp\obj\Debug\net8.0\memMgmtApp.genruntimeconfig.cache
+E:\MS.Net\memMgmtApp\memMgmtApp\obj\Debug\net8.0\ref\memMgmtApp.dll
