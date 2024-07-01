@@ -1,0 +1,14 @@
+E:\MS.Net\BankingApplication\BankingApplication\bin\Debug\net8.0\BankingApplication.exe
+E:\MS.Net\BankingApplication\BankingApplication\bin\Debug\net8.0\BankingApplication.deps.json
+E:\MS.Net\BankingApplication\BankingApplication\bin\Debug\net8.0\BankingApplication.runtimeconfig.json
+E:\MS.Net\BankingApplication\BankingApplication\bin\Debug\net8.0\BankingApplication.dll
+E:\MS.Net\BankingApplication\BankingApplication\bin\Debug\net8.0\BankingApplication.pdb
+E:\MS.Net\BankingApplication\BankingApplication\obj\Debug\net8.0\BankingApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\MS.Net\BankingApplication\BankingApplication\obj\Debug\net8.0\BankingApplication.AssemblyInfoInputs.cache
+E:\MS.Net\BankingApplication\BankingApplication\obj\Debug\net8.0\BankingApplication.AssemblyInfo.cs
+E:\MS.Net\BankingApplication\BankingApplication\obj\Debug\net8.0\BankingApplication.csproj.CoreCompileInputs.cache
+E:\MS.Net\BankingApplication\BankingApplication\obj\Debug\net8.0\BankingApplication.dll
+E:\MS.Net\BankingApplication\BankingApplication\obj\Debug\net8.0\refint\BankingApplication.dll
+E:\MS.Net\BankingApplication\BankingApplication\obj\Debug\net8.0\BankingApplication.pdb
+E:\MS.Net\BankingApplication\BankingApplication\obj\Debug\net8.0\BankingApplication.genruntimeconfig.cache
+E:\MS.Net\BankingApplication\BankingApplication\obj\Debug\net8.0\ref\BankingApplication.dll
